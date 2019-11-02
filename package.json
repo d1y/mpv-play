@@ -1,0 +1,26 @@
+{
+  "name": "mpv-play",
+  "version": "0.0.1",
+  "description": "mpv play hook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d1y/mpv-play.git"
+  },
+  "keywords": [
+    "mpv",
+    "play"
+  ],
+  "author": "d1y",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d1y/mpv-play/issues"
+  },
+  "homepage": "https://github.com/d1y/mpv-play#readme",
+  "dependencies": {
+    "command-exists": "^1.2.8"
+  }
+}
